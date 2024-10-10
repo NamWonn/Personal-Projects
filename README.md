@@ -1,1 +1,3 @@
-This is a replicate version of the well known Flappy Bird game from Vietnam using Python with PyGame lib.
+These are games developed by Python PyGame library.
+1 - Car
+2 - Flappy Bird
